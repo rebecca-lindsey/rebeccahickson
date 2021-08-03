@@ -1,4 +1,4 @@
-# :raising_hand: Hi there, I'm Rebecca!
+# :wave: Hi there, I'm Rebecca!
 
 From ballet to booleans, Rebecca brings her artistic talents to the table to craft innovative and efficient code. 
 
@@ -8,15 +8,7 @@ She is a published author on Medium, and her technical blog posts can be seen in
 
 ## :muscle: Skills
 
-<p>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"/>
-<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" title="Redux"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>
-  <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" title="Rails"/>
-  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" title="Ruby"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite"/>
-  
-  </p>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccahickson&theme=blue-green)
 
 ## :art: Projects
 ### Frying Plan
