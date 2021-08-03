@@ -8,7 +8,7 @@ She is a published author on Medium, and her technical blog posts can be seen in
 
 ## :muscle: Skills
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccahickson&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccahickson&theme=blue-green&langs_count=10)
 
 ## :art: Projects
 ### Frying Plan
